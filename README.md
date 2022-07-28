@@ -25,8 +25,7 @@ I'm worked on the following minecraft servers:
 
 I'm currently working for the following servers:
 * MoonWolf -> Currently Dev
-
-
+-------------------
 
 - Language:
 
