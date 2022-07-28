@@ -1,8 +1,13 @@
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
-- 💼 I currently 
+
+- 💼 I currently working in Night Development
+
 - 💻 I'm learning **Java**,**Python**,**HTML**,**CSS**, **C++** and **JavaScript**
+
 - 🎉 I'm 14 years old
+  
+<br/>  
 
 # Experience
 I'm worked on the following minecraft servers:
