@@ -1,10 +1,27 @@
-### Hi, my name is Tobias but some call me Aapy 👋
-
 <br />
-
+### Hi, my name is Tobias but some call me Aapy 👋
 - 💼 I currently 
 - 💻 I have knowledge in **Java**,**Python**,**HTML**,**CSS**, **C++** and **JavaScript**
 - 🎉 I'm 14 years old
+
+# Experience
+I'm worked on the following minecraft servers:
+-------------------
+2021:
+* Olympus -> Ex Dev
+* DixPvP -> Ex Dev
+* CentryHCF -> Ex Dev
+* MininMC -> Ex Dev
+* LivePvP -> Ex Dev
+-------------------
+2022:
+* ZenithMC -> Ex Dev
+* InfernalMC -> Ex Dev/Owner
+* SharkMC -> Ex Dev
+-------------------
+
+I'm currently working for the following servers:
+* MoonWolf -> Currently Dev
 
 <p align="center">
   <a href="https://github.com/7qv">
@@ -17,26 +34,6 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/950467220767662121?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
-
-<p align="center">
-  <a>
-   Experience in servers:
-    ---------------------
-    Experience in 2021:
-    Olympus -> Ex Dev
-    DixPvP -> Ex Dev
-    CentryHCF -> Ex Dev
-    MininMC -> Ex Dev
-    LivePvP -> Ex Dev
-    --------------------
-    Experience in 2022
-    InfernalMC -> Ex Dev/Owner
-    SharkMC -> Ex Dev
-    MoonWolf -> Currently Dev
-    ---------------------
-  </a>
-</p>
-
 <p align="center">
   <a href="https://twitter.com/AapyDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
