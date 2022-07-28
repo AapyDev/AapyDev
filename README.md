@@ -1,7 +1,7 @@
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
 - 💼 I currently 
-- 💻 I have knowledge in **Java**,**Python**,**HTML**,**CSS**, **C++** and **JavaScript**
+- 💻 I'm learning **Java**,**Python**,**HTML**,**CSS**, **C++** and **JavaScript**
 - 🎉 I'm 14 years old
 
 # Experience
@@ -22,6 +22,15 @@ I'm worked on the following minecraft servers:
 
 I'm currently working for the following servers:
 * MoonWolf -> Currently Dev
+
+<div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c++-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original-wordmark.sv" alt="Kotlin" height="50" />  
+</div>
 
 <p align="center">
   <a href="https://github.com/7qv">
