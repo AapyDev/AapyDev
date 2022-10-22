@@ -3,7 +3,7 @@
 
 - 💼 I currently working in Night Development
 
-- 🎉 I'm 14 years old
+- 🎉 I'm 15 years old
   
 <br/>  
 
@@ -24,7 +24,7 @@ I'm worked on the following minecraft servers:
 -------------------
 
 I'm currently working for the following servers:
-* MoonWolf -> Currently Dev
+* MoonWolf -> Ex Dev
 -------------------
 
 - Language:
