@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aapydev&label=Profile%20views&color=0e75b6&style=flat" alt="aapydev" /> </p>
+
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
 
@@ -47,6 +49,8 @@ I'm currently working for the following servers:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=7qv&show_icons=true&theme=radical&count_private=true&locale=en" alt="7qv"/>
   </a>
 </p>
+
+<img style="float: center;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapydev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
 <p align="center">
   <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
