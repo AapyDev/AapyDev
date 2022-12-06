@@ -1,7 +1,7 @@
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
 
-- 💼 I currently working in Night Development
+- 💼 I currently working in Zyrux Network
 
 - 🎉 I'm 15 years old
   
@@ -25,7 +25,7 @@ I'm worked on the following minecraft servers:
 -------------------
 
 I'm currently working for the following servers:
-* ????
+* Zyrux Network
 -------------------
 
 - Language:
@@ -43,7 +43,7 @@ I'm currently working for the following servers:
 </div>
 
 <p align="center">
-  <a href="https://github.com/7qv">
+  <a href="https://github.com/AapyDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=7qv&show_icons=true&theme=radical&count_private=true&locale=en" alt="7qv"/>
   </a>
 </p>
