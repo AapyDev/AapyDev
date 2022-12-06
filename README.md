@@ -44,20 +44,20 @@ I'm currently working for the following servers:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/AapyDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=7qv&show_icons=true&theme=radical&count_private=true&locale=en" alt="7qv"/>
   </a>
 </p>
 
-<img style="text-align=center;"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapydev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+<img align="center"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapydev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
-<p style="text-align: center;>
+<p align="center">
   <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard.cnrad.dev/api/950467220767662121?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
-<p style="text-align: center;">
+<p align="center">
   <a href="https://twitter.com/AapyDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </p>
