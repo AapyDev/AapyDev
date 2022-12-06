@@ -50,7 +50,7 @@ I'm currently working for the following servers:
   </a>
 </p>
 
-<img align="center"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapydev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+<img style="text-align:center;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapydev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
 <p align="center">
   <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
