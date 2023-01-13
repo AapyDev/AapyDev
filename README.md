@@ -25,9 +25,12 @@ I'm worked on the following minecraft servers:
 * SharkMC -> Ex Dev
 * MoonWolf -> Ex Dev
 -------------------
+2023:
+* WaveHCF -> Dev
+-------------------
 
 I'm currently working for the following servers:
-* Zyrux Network
+* WaveHCF Network
 -------------------
 
 - Language:
