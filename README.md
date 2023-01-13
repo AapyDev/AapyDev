@@ -3,7 +3,7 @@
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
 
-- 💼 I currently working in Zyrux Network
+- 💼 I currently working in WaveHCF Network 
 
 - 🎉 I'm 15 years old
   
