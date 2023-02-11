@@ -48,7 +48,7 @@ I'm currently working for the following servers:
 </div>
 
 <p align="center">
-  <a href="https://github.com/AapyDev">
+  <a href="https://github.com/TobiDev1">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=7qv&show_icons=true&theme=radical&count_private=true&locale=en" alt="7qv"/>
   </a>
 </p>
@@ -61,6 +61,6 @@ I'm currently working for the following servers:
   </a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/AapyDev">
+  <a href="https://twitter.com/TobiDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </p>
