@@ -53,7 +53,7 @@ I'm currently working for the following servers:
   </a>
 </p>
 
-<img style="text-align: center; margin: 2px auto;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+<img aling="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
 <p align="center">
   <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
