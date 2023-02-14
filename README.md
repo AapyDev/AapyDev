@@ -57,7 +57,7 @@ I'm currently working for the following servers:
 
 <p align="center">
   <a href="https://discord.com/users/1070849350223274005" target="_blank" rel="nofollow">
-    <img style="src="[https://lanyard.cnrad.dev/api/1070849350223274005?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+    <img style="src="https://lanyard.cnrad.dev/api/1070849350223274005?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
 <p align="center">
