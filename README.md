@@ -3,9 +3,9 @@
 ### Hi, my name is Tobias but some call me Aapy 👋
 <br />
 
-- 💼 I currently working in WaveHCF Network 
+- 💼 I currently working in ...
 
-- 🎉 I'm 15 years old
+- 🎉 I'm 16 years old
   
 <br/>  
 
@@ -30,7 +30,7 @@ I'm worked on the following minecraft servers:
 -------------------
 
 I'm currently working for the following servers:
-* WaveHCF Network
+* ?
 -------------------
 
 - Language:
@@ -53,11 +53,11 @@ I'm currently working for the following servers:
   </a>
 </p>
 
-<img aling="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
 <p align="center">
   <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard.cnrad.dev/api/950467220767662121?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+    <img style="src="https://lanyard.cnrad.dev/api/950467220767662121?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
 <p align="center">
