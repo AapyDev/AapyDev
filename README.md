@@ -56,8 +56,8 @@ I'm currently working for the following servers:
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 
 <p align="center">
-  <a href="https://discord.com/users/950467220767662121" target="_blank" rel="nofollow">
-    <img style="src="https://lanyard.cnrad.dev/api/950467220767662121?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  <a href="https://discord.com/users/1070849350223274005" target="_blank" rel="nofollow">
+    <img style="src="https://lanyard.cnrad.dev/api/1070849350223274005?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
 <p align="center">
