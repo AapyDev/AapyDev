@@ -16,6 +16,7 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/>  
 <br />
 
+<hr>
 
 ### 🤵 About Me:
 
