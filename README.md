@@ -16,14 +16,13 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/>  
 <br />
 
-<hr>
 
-### 🤵 About Me:
+# 🤵 About Me:
 
 - 💻 I'm learning **Java**,**Python**, **C++**, **C#** and **JavaScript**
 
 ---
-### 📚 History worked projects:
+# 📚 History worked projects:
 
 - ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
 - ⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)
@@ -37,5 +36,5 @@
 - ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
 ---
 
-### 🥂 Actually Projects:
+# 🥂 Actually Projects:
 - ...?
