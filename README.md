@@ -1,67 +1,24 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aapydev&label=Profile%20views&color=0e75b6&style=flat" alt="tobidev" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&width=435&lines=Hello%2C+my+name+is+TobiDev+;I%C2%B4m+16+years+old;I%C2%B4m+Web+Developer;I%C2%B4m+Minecraft+Developer;I%C2%B4m+Game+Developer;I%C2%B4m+Application+Developer)](https://git.io/typing-svg)
 
-### Hi, my name is Tobias but some call me Aapy 👋
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=2446F7FF_color=0d1117" alt="TobiDev"/>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+</div>
+width="30px" style="padding-right:10px;"
+# Languages and Tools:
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/>  
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/>  
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/>  
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/>  Learning
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/>  Learning
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/>  
+<img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/>  
 <br />
 
-- 💼 I currently working in ...
 
-- 🎉 I'm 16 years old
-  
-<br/>  
+# Information
 
-- Experience
-I'm worked on the following minecraft servers:
--------------------
-2021:
-* Olympus -> Ex Dev
-* DixPvP -> Ex Dev
-* CentryHCF -> Ex Dev
-* MininMC -> Ex Dev
-* LivePvP -> Ex Dev
--------------------
-2022:
-* ZenithMC -> Ex Dev
-* InfernalMC -> Ex Dev/Owner
-* SharkMC -> Ex Dev
-* MoonWolf -> Ex Dev
--------------------
-2023:
-* WaveHCF -> Dev
--------------------
 
-I'm currently working for the following servers:
-* ?
--------------------
 
-- Language:
-
-- 💻 I'm learning **Java**,**Python**,**HTML**,**CSS**, **C++**, **C#** and **JavaScript**
-
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-<p align="center">
-  <a href="https://github.com/TobiDev1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&theme=radical&count_private=true&locale=en" alt="TobiDev"/>
-  </a>
-</p>
-
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
-
-<p align="center">
-    <a href="https://discord.com/users/1070849350223274005" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1070849350223274005?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/TobiDev">
-    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</p>
+# Servers with Working
