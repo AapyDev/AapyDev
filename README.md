@@ -5,7 +5,6 @@
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 </div>
-width="30px" style="padding-right:10px;"
 # Languages and Tools:
 <img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/>  
 <img width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/>  
