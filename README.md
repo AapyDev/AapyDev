@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&width=435&lines=Hello%2C+my+name+is+TobiDev+;I%C2%B4m+16+years+old;I%C2%B4m+Web+Developer;I%C2%B4m+Minecraft+Developer;I%C2%B4m+Game+Developer;I%C2%B4m+Application+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+TobiDev+;I%C2%B4m+16+years+old;I%C2%B4m+Web+Developer;I%C2%B4m+Minecraft+Developer;I%C2%B4m+Game+Developer;I%C2%B4m+Application+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&count_private=true&hide_border=true&title_color=2446F7FF&icon_color=00bfbf&text_color=2446F7FF&bg_color=0d1117" alt="TobiDev"/>
@@ -7,6 +7,7 @@
 </div>
 
 # Languages and Tools:
+
 <img align="left" width="40px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/>  
 <img align="left" width="40px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/>  
 <img align="left" width="40px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/>  
@@ -22,7 +23,6 @@
 
 - 💻 I'm learning **Java**,**Python**, **C++**, **C#** and **JavaScript**
 
----
 # 📚 History worked projects:
 
 - ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
@@ -35,7 +35,6 @@
 - ⚔ SharkMC Network - A Minecraft PvP Network based on HCF & PvP Community (Developer)
 - ⚔ MoonWolf Network - A Minecraft PvP Network based on HCF (Developer)
 - ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
----
 
 # 🥂 Actually Projects:
 - ...?
