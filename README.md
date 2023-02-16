@@ -10,8 +10,8 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/>  
 <img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/>  
 <img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/>  
-<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/>  Learning
-<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/>  Learning
+<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/>  
+<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/>  
 <img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/>  
 <img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/>  
 <br />
