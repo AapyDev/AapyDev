@@ -24,7 +24,8 @@
 - 💻 I'm learning **Java**,**Python**, **C++**, **C#** and **JavaScript**
 
 # 📚 History worked projects:
-
+<details>
+   <summary>Click to show</summary>
 - ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
 - ⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)
 - ⚔ CentryHCF Network - A Minecraft PvP Network based on HCF (Developer)
@@ -38,3 +39,4 @@
 
 # 🥂 Actually Projects:
 - ...?
+</details>
