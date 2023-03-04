@@ -26,16 +26,48 @@
 # 📚 History worked projects:
 <details>
    <summary>Click to show</summary>
-- ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ CentryHCF Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ MininMC Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ LivePvP Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ ZenithMC Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ InfernalMC Network - A Minecraft PvP Network based on HCF (Developer/Owner)
-- ⚔ SharkMC Network - A Minecraft PvP Network based on HCF & PvP Community (Developer)
-- ⚔ MoonWolf Network - A Minecraft PvP Network based on HCF (Developer)
-- ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
+
+ <ul>
+                <li>
+                    - ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ CentryHCF Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ MininMC Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ LivePvP Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ ZenithMC Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ InfernalMC Network - A Minecraft PvP Network based on HCF (Developer/Owner)
+                </li>
+                <br>
+                <li>
+                    - ⚔ SharkMC Network - A Minecraft PvP Network based on HCF & PvP Community (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ MoonWolf Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+                <br>
+                <li>
+                    - ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
+                </li>
+            </ul>
 
 # 🥂 Actually Projects:
 - ...?
