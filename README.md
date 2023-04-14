@@ -9,8 +9,27 @@
 # Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linkedin,godot,replit,idea,vscode,cs, notepad++,css,js html,cpp,java,linux,json,py, maven,pug,boostrap,react,stackoverflow" />
-  
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=replit"/>
+    <img src="https://skillicons.dev/icons?i=idea"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=cs"/>
+    <img src="https://skillicons.dev/icons?i=heroku"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=json"/>
+    <img src="https://skillicons.dev/icons?i=py"/>
+    <img src="https://skillicons.dev/icons?i=maven"/>
+    <img src="https://skillicons.dev/icons?i=pug"/>
+    <img src="https://skillicons.dev/icons?i=boostrap"/>
+    <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
 </p>
 
