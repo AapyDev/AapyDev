@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=pug"/>
-    <img src="https://skillicons.dev/icons?i=boostrap"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
