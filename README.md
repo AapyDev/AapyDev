@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=cpp"/>
     <img src="https://skillicons.dev/icons?i=java"/>
     <img src="https://skillicons.dev/icons?i=linux"/>
-    <img src="https://skillicons.dev/icons?i=json"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio"/>
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=pug"/>
