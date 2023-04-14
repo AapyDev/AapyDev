@@ -9,8 +9,8 @@
 # Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,linkedin,godot,replit,idea,vscode,cs, notepad++,css,js html,cpp,java,linux,json,py, maven,pug,boostrap,react,stackoverflow" />
+  
   </a>
 </p>
 
