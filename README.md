@@ -7,21 +7,11 @@
 </div>
 
 # Languages and Tools:
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/>  
-and C#
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git, linkedin, godot, replit,idea,vscode,cs, notepad++, css, js, html, cpp, java, apachemaven, linux, json, py, pug, boostrap, react, stackoverflow" />
+  </a>
+</p>
 
 <br />
 
