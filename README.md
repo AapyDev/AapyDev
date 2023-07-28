@@ -85,6 +85,7 @@
                 <li>
                     - ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
                 </li>
+                <br>
                 <li>
                     - ⚔ EvilMC Network - A Minecraft PvP Network based on HCF (Developer)
                 </li>
