@@ -39,7 +39,7 @@
 
 # 🤵 About Me:
 
-- 💻 I'm learning **Java**,**Python**, **C++**, **C#** and **JavaScript**
+- 💻 I'm learning **Java**,**C++**, **C#** and **JavaScript**
 
 # 📚 History worked projects:
 <details>
@@ -92,6 +92,5 @@
             </ul>
 
 # 🥂 Actually Projects:
-- EvilMC Network - A Minecraft PvP Network based on HCF (Developer)
-- ArtomNautica Game Horror...
+- Game Horror...
 </details>
