@@ -12,6 +12,9 @@
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=blender" />
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=replit"/>
     <img src="https://skillicons.dev/icons?i=idea"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
@@ -29,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=pug"/>
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=astro"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
 </p>
