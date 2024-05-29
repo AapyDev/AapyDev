@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=unity" />
-    <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=replit"/>
     <img src="https://skillicons.dev/icons?i=idea"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
