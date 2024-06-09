@@ -93,11 +93,11 @@
                     - ⚔ EvilMC Network - A Minecraft PvP Network based on HCF (Developer)
                 </li>
                 <li>
-                    - ⚔ MineCub Network - A Minecraft PvP And MineGames Network (Developer)
+                    - ⚔ ... Network - A Minecraft PvP And MineGames Network (Developer)
                 </li> 
             </ul>
 
 # 🥂 Actually Projects:
-- MineCub Network 
+- ... Network 
 - Game Horror...
 </details>
