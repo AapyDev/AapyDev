@@ -93,11 +93,11 @@
                     - ⚔ EvilMC Network - A Minecraft PvP Network based on HCF (Developer)
                 </li>
                 <li>
-                    - ⚔ ... Network - A Minecraft PvP And MineGames Network (Developer)
+                    - ⚔ AtlasMC Network - A Minecraft PvP And MineGames Network (Developer)
                 </li> 
             </ul>
 
 # 🥂 Actually Projects:
-- ... Network 
+- AtlasMC Network 
 - Game Horror...
 </details>
