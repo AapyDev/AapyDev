@@ -9,32 +9,39 @@
 # Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
+    # Herramientas y programas
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
-    <img src="https://skillicons.dev/icons?i=godot" />
-    <img src="https://skillicons.dev/icons?i=blender" />
-    <img src="https://skillicons.dev/icons?i=unity" />
     <img src="https://skillicons.dev/icons?i=replit"/>
     <img src="https://skillicons.dev/icons?i=idea"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
-    <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=heroku"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=maven"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
+
+    # Development Web 
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
     <img src="https://skillicons.dev/icons?i=html"/>
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-    <img src="https://skillicons.dev/icons?i=java"/>
-    <img src="https://skillicons.dev/icons?i=linux"/>
-    <img src="https://skillicons.dev/icons?i=androidstudio"/>
-    <img src="https://skillicons.dev/icons?i=py"/>
-    <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=pug"/>
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=astro"/>
-    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
+
+    # Development Minecraft Java  -->
+    <img src="https://skillicons.dev/icons?i=java"/>
+
+    # Game Development
+    <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=blender" />
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=androidstudio"/>
+    <img src="https://skillicons.dev/icons?i=cs"/>
+    <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
 </p>
+
 
 <br />
 
