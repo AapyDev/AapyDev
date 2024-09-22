@@ -9,7 +9,8 @@
 # Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    # Herramientas y programas
+    <!-- Herramientas y programas -->
+    <strong>Herramientas y programas</strong><br>
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=replit"/>
@@ -20,7 +21,8 @@
     <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
     <div style="margin: 20px 0;"></div>
-    # Development Web 
+    <!-- Desarrollo Web -->
+    <strong>Development Web</strong><br>
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
     <img src="https://skillicons.dev/icons?i=html"/>
@@ -29,83 +31,44 @@
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=astro"/>
     <div style="margin: 20px 0;"></div>
-    # Development Minecraft Java  
+    <!-- Desarrollo Minecraft Java -->
+    <strong>Development Minecraft Java</strong><br>
     <img src="https://skillicons.dev/icons?i=java"/>
     <div style="margin: 20px 0;"></div>
-    # Game Development
+    <!-- Game Development -->
+    <strong>Game Development</strong><br>
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=unity" />
     <img src="https://skillicons.dev/icons?i=androidstudio"/>
     <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
-    
   </a>
 </p>
 
-
 <br />
 
-
-
 # 🤵 About Me:
+- 💻 I'm learning **Java**, **C++**, **C#**, and **JavaScript**.
 
-- 💻 I'm learning **Java**,**C++**, **C#** and **JavaScript**
-
-# 📚 History worked projects:
+# 📚 History of Worked Projects:
 <details>
    <summary>Click to show</summary>
-
- <ul>
-                <li>
-                    - ⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ CentryHCF Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ MininMC Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ LivePvP Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ ZenithMC Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ InfernalMC Network - A Minecraft PvP Network based on HCF (Developer/Owner)
-                </li>
-                <br>
-                <li>
-                    - ⚔ SharkMC Network - A Minecraft PvP Network based on HCF & PvP Community (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ MoonWolf Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <br>
-                <li>
-                    - ⚔ EvilMC Network - A Minecraft PvP Network based on HCF (Developer)
-                </li>
-                <li>
-                    - ⚔ AtlasMC Network - A Minecraft PvP And MineGames Network (Developer)
-                </li> 
-            </ul>
-
-# 🥂 Actually Projects:
-- AtlasMC Network 
-- Game Horror...
+   <ul>
+     <li>⚔ Olympus Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ DixPvP Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ CentryHCF Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ MininMC Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ LivePvP Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ ZenithMC Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ InfernalMC Network - A Minecraft PvP Network based on HCF (Developer/Owner)</li>
+     <li>⚔ SharkMC Network - A Minecraft PvP Network based on HCF & PvP Community (Developer)</li>
+     <li>⚔ MoonWolf Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ WaveHCF Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ EvilMC Network - A Minecraft PvP Network based on HCF (Developer)</li>
+     <li>⚔ AtlasMC Network - A Minecraft PvP And MineGames Network (Developer)</li>
+   </ul>
 </details>
+
+# 🥂 Current Projects:
+- Game Horror...
