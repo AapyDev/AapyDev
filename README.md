@@ -45,7 +45,6 @@
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=unity" />
-    <img src="https://skillicons.dev/icons?i=androidstudio"/>
     <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
@@ -54,7 +53,7 @@
 <br />
 
 # 🤵 About Me:
-- 💻 I'm learning **Java**, **C++**, **C#**, and **JavaScript**.
+- 💻 I'm learning **C++**.
 
 # 📚 History of Worked Projects:
 <details>
