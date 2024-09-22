@@ -5,57 +5,62 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&layout=compact&hide_border=true&title_color=4CAF50&text_color=4CAF50&bg_color=0d1117"/>
 </div>
 
-# Languages and Tools:
-<p>
-  <strong>Herramientas y programas</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    <img src="https://skillicons.dev/icons?i=replit"/>
-    <img src="https://skillicons.dev/icons?i=idea"/>
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-    <img src="https://skillicons.dev/icons?i=heroku"/>
-    <img src="https://skillicons.dev/icons?i=linux"/>
-    <img src="https://skillicons.dev/icons?i=maven"/>
-    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-  </a>
-  <div style="margin: 20px 0;"></div>
-
-  <strong>Development Web</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=html"/>
-    <img src="https://skillicons.dev/icons?i=tailwind"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=react"/>
-    <img src="https://skillicons.dev/icons?i=astro"/>
-  </a>
-  <div style="margin: 20px 0;"></div>
-
-  <strong>Development Minecraft Java</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java"/>
-  </a>
-  <div style="margin: 20px 0;"></div>
-
-  <strong>Game Development</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot" />
-    <img src="https://skillicons.dev/icons?i=unity" />
-    <img src="https://skillicons.dev/icons?i=unrealengine" />
-    <img src="https://skillicons.dev/icons?i=blender" />
-    <img src="https://skillicons.dev/icons?i=cs"/>
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-  </a>
-</p>
+# 🌟 Languages and Tools
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <strong>Herramientas y programas</strong>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+      <img src="https://skillicons.dev/icons?i=replit"/>
+      <img src="https://skillicons.dev/icons?i=idea"/>
+      <img src="https://skillicons.dev/icons?i=vscode"/>
+      <img src="https://skillicons.dev/icons?i=heroku"/>
+      <img src="https://skillicons.dev/icons?i=linux"/>
+      <img src="https://skillicons.dev/icons?i=maven"/>
+      <img src="https://skillicons.dev/icons?i=stackoverflow"/>
+    </a>
+  </div>
+  <br />
+  <strong>Desarrollo Web</strong>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css"/>
+      <img src="https://skillicons.dev/icons?i=js"/>
+      <img src="https://skillicons.dev/icons?i=html"/>
+      <img src="https://skillicons.dev/icons?i=tailwind"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap"/>
+      <img src="https://skillicons.dev/icons?i=react"/>
+      <img src="https://skillicons.dev/icons?i=astro"/>
+    </a>
+  </div>
+  <br />
+  <strong>Development Minecraft Java</strong>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+  </div>
+  <br />
+  <strong>Game Development</strong>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=godot" />
+      <img src="https://skillicons.dev/icons?i=unity" />
+      <img src="https://skillicons.dev/icons?i=unrealengine" />
+      <img src="https://skillicons.dev/icons?i=blender" />
+      <img src="https://skillicons.dev/icons?i=cs"/>
+      <img src="https://skillicons.dev/icons?i=cpp"/>
+    </a>
+  </div>
+</div>
 
 <br />
 
-# 🤵 About Me:
+# 🤵 About Me
 - 💻 I'm learning **C++**.
 
-# 📚 History of Worked Projects:
+# 📚 History of Worked Projects
 <details>
    <summary>Click to show</summary>
    <ul>
@@ -74,5 +79,5 @@
    </ul>
 </details>
 
-# 🥂 Current Projects:
-- Game Horror...
+# 🥂 Current Projects
+- **Game Horror** - 
