@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;Game+Developer;Web+%26+App+Developer;Minecraft+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+%26+App+Developer;I%C2%B4m+a+Minecraft+Developer)](https://git.io/typing-svg)
+
 
 
 <div align="center">
