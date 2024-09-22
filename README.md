@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=linux"/>
     <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-
+    <div style="margin: 20px 0;"></div>
     # Development Web 
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
@@ -28,10 +28,10 @@
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=astro"/>
-
-    # Development Minecraft Java  -->
+    <div style="margin: 20px 0;"></div>
+    # Development Minecraft Java  
     <img src="https://skillicons.dev/icons?i=java"/>
-
+    <div style="margin: 20px 0;"></div>
     # Game Development
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
@@ -39,6 +39,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio"/>
     <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
+    
   </a>
 </p>
 
