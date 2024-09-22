@@ -43,8 +43,9 @@
   <strong>Game Development</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot" />
-    <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=unrealengine" />
+    <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
