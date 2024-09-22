@@ -8,9 +8,8 @@
 
 # Languages and Tools:
 <p align="center">
+  <strong>Herramientas y programas</strong><br>
   <a href="https://skillicons.dev">
-    <!-- Herramientas y programas -->
-    <strong>Herramientas y programas</strong><br>
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://skillicons.dev/icons?i=replit"/>
@@ -20,9 +19,11 @@
     <img src="https://skillicons.dev/icons?i=linux"/>
     <img src="https://skillicons.dev/icons?i=maven"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-    <div style="margin: 20px 0;"></div>
-    <!-- Desarrollo Web -->
-    <strong>Development Web</strong><br>
+  </a>
+  <div style="margin: 20px 0;"></div>
+
+  <strong>Development Web</strong><br>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
     <img src="https://skillicons.dev/icons?i=html"/>
@@ -30,13 +31,17 @@
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=astro"/>
-    <div style="margin: 20px 0;"></div>
-    <!-- Desarrollo Minecraft Java -->
-    <strong>Development Minecraft Java</strong><br>
+  </a>
+  <div style="margin: 20px 0;"></div>
+
+  <strong>Development Minecraft Java</strong><br>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java"/>
-    <div style="margin: 20px 0;"></div>
-    <!-- Game Development -->
-    <strong>Game Development</strong><br>
+  </a>
+  <div style="margin: 20px 0;"></div>
+
+  <strong>Game Development</strong><br>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
     <img src="https://skillicons.dev/icons?i=unity" />
