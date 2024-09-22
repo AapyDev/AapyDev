@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;Game+Developer;Web+Developer;Minecraft+Developer" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;Game+Developer;Web+Developer;Minecraft+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&count_private=true&hide_border=true&title_color=2446F7FF&icon_color=00bfbf&text_color=2446F7FF&bg_color=0d1117" alt="TobiDev"/>
