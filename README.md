@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+TobiDev+;I%C2%B4m+17+years+old;I%C2%B4m+a+Web+Developer;I%C2%B4m+a+Minecraft+Developer;I%C2%B4m+a+Game+Developer;I%C2%B4m+an+Application+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2446F7&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;Game+Developer;Web+Developer;Minecraft+Developer" alt="Typing SVG" /></a>
 
 
 <div align="center">
