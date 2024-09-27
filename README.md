@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer;I%C2%B4m+a+Minecraft+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=00bfbf&text_color=4CAF50&bg_color=0d1117" alt="TobiDev"/>
@@ -16,13 +16,6 @@
       <img src="https://skillicons.dev/icons?i=tailwind"/>
       <img src="https://skillicons.dev/icons?i=react"/>
       <img src="https://skillicons.dev/icons?i=astro"/>
-    </a>
-  </div>
-  <br />
-  <strong>Development Minecraft Java</strong>
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java"/>
     </a>
   </div>
   <br />
