@@ -5,23 +5,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobidev1&layout=compact&hide_border=true&title_color=4CAF50&text_color=4CAF50&bg_color=0d1117"/>
 </div>
 
-# 🌟 Languages and Tools
+# 🌟 Skills
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <strong>Herramientas y programas</strong>
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git" />
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-      <img src="https://skillicons.dev/icons?i=replit"/>
-      <img src="https://skillicons.dev/icons?i=idea"/>
-      <img src="https://skillicons.dev/icons?i=vscode"/>
-      <img src="https://skillicons.dev/icons?i=heroku"/>
-      <img src="https://skillicons.dev/icons?i=linux"/>
-      <img src="https://skillicons.dev/icons?i=maven"/>
-      <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-    </a>
-  </div>
-  <br />
   <strong>Desarrollo Web</strong>
   <div>
     <a href="https://skillicons.dev">
@@ -29,7 +14,6 @@
       <img src="https://skillicons.dev/icons?i=js"/>
       <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=tailwind"/>
-      <img src="https://skillicons.dev/icons?i=bootstrap"/>
       <img src="https://skillicons.dev/icons?i=react"/>
       <img src="https://skillicons.dev/icons?i=astro"/>
     </a>
@@ -49,8 +33,8 @@
       <img src="https://skillicons.dev/icons?i=unity" />
       <img src="https://skillicons.dev/icons?i=unrealengine" />
       <img src="https://skillicons.dev/icons?i=blender" />
-      <img src="https://skillicons.dev/icons?i=cs"/>
       <img src="https://skillicons.dev/icons?i=cpp"/>
+      <!--<img src="https://skillicons.dev/icons?i=cs"/>-->
     </a>
   </div>
 </div>
@@ -59,6 +43,7 @@
 
 # 🤵 About Me
 - 💻 I'm learning **C++**.
+- ✈️ I started my programming journey at a young age, motivated by my passion for **Java Minecraft**. For a considerable time, I dedicated myself to developing plugins for Minecraft servers, which led me to delve deeper into software development. Now, I continue to work in this field as a hobby while expanding my skills specifically towards game development and web development.
 
 # 📚 History of Worked Projects
 <details>
