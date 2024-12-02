@@ -16,7 +16,6 @@
       <img src="https://skillicons.dev/icons?i=tailwind"/>
       <img src="https://skillicons.dev/icons?i=react"/>
       <img src="https://skillicons.dev/icons?i=java"/>
-    
       <img src="https://skillicons.dev/icons?i=astro"/>
     </a>
   </div>
