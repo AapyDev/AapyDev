@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+TobiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+NosiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tobidev1&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=00bfbf&text_color=4CAF50&bg_color=0d1117" alt="TobiDev"/>
@@ -38,7 +38,7 @@
 - 💻 I'm learning **C++**.
 - ✈️ I started my programming journey at a young age, motivated by my passion for **Java Minecraft**. For a considerable time, I dedicated myself to developing plugins for Minecraft servers, which led me to delve deeper into software development. Now, I continue to work in this field as a hobby while expanding my skills specifically towards game development and web development.
 
-# 📚 History of Worked Projects
+# 📚 History of Worked Projects (Minecraft Servers)
 <details>
    <summary>Click to show</summary>
    <ul>
